@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "b9ac",
+      "login": "user",
+      "password": "123"
+    },
+    {
+      "login": "maxim",
+      "password": "123",
+      "id": "Ru-DTO8"
+    },
+    {
+      "login": "Egor",
+      "password": "123123",
+      "id": "gYMUDVp"
+    }
+  ],
+  "entities": [
+    {
+      "id": 7,
+      "userId": "b9ac",
+      "description": "34535",
+      "name": "3535"
+    },
+    {
+      "id": 8,
+      "name": "24",
+      "description": "2424",
+      "userId": "Ru-DTO8"
+    },
+    {
+      "id": 9,
+      "name": "123123",
+      "description": "123123",
+      "userId": "Ru-DTO8"
+    }
+  ]
+}

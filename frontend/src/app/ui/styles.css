@@ -1,0 +1,14 @@
+html {
+  height: 100dvh;
+}
+
+body {
+  margin: 0;
+  height: 100dvh;
+}
+
+#root {
+  margin: 0;
+  display: grid;
+  height: 100dvh;
+}

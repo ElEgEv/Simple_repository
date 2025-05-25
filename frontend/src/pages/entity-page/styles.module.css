@@ -1,0 +1,12 @@
+.page {
+  display: grid;
+  grid-template-columns: 1fr minmax(0, 400px) 1fr;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 20px;
+  grid-column: 2;
+}

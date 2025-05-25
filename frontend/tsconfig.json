@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "lib": ["ES2015", "dom"],
+    "paths": {
+      "app/*": ["src/app/*"],
+      "entities/*": ["src/entities/*"],
+      "pages/*": ["src/pages/*"],
+      "shared/*": ["src/shared/*"],
+    }
+  }
+}
